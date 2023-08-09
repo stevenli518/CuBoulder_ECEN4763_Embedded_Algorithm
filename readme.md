@@ -9,7 +9,7 @@
 4. [Assignment4 - Binary Search with AVL Tree and a Binary Search Tree](/Assignment4/)
 5. [Assignment5 - Breadth First Search and Depth First Search](/Assignment5/)
 6. [Assignment6 - Bellman Ford ShortestPath](/Assignment6/)
-7. [Assignment7 - Insertion sort, Quick sort, and Merge sort.](/Assignment7/)
+7. [Assignment7 - Insertion sort, Quick sort, and Merge sort](/Assignment7/)
 8. [Assignment8 - TimSort](/Assignment8/)
 9. [Assignment9 - Compression Algorithms LZSS and RLE](/Assignment9/)
 10. [Assignment10 - Hybrid Compression](/Assignment10/)
